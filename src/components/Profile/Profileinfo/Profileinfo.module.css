@@ -1,0 +1,11 @@
+img {
+    width: 100%;
+}
+
+.descriptionBlock {
+    padding: 10px;
+}
+
+.descriptionBlock img {
+    width: 200px;
+}
